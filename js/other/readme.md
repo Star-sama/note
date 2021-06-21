@@ -1,2 +1,2 @@
-# note
+# Other
 Faster，Higher，Stronger
